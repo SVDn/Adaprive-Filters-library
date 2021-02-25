@@ -8,6 +8,9 @@ N=32;               % filter length
 M=32;               % correlation function length
 
 
+
+
+
 % input signal
 Len=10000;           % input signal length
 x=wgn(1,Len,0);     % input signal
